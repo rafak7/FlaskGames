@@ -86,7 +86,7 @@ jogos = [
     ("Tetris", "Puzzle", "Atari"),
     ("God of War", "Hack and Slash", "PS2"),
     ("Mortal Kombat I", "Luta", "PS2"),
-    ("Need for Speed", "HCorrida", "PC"),
+    ("Need for Speed", "Corrida", "PC"),
 ]
 
 cursor.executemany(jogo_sql,jogos)
